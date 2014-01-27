@@ -8,18 +8,18 @@ h1 {background-color: #4C0B5F;
     font-weight: normal;
     color: #FFF}
 
-li {font-size: 1.25rem;
-    line-height: 1.5rem}
+li {line-height: 1.2rem}
 
 hr {border: solid 1px #F5DA81}
 
 ul{background-color: #F3E2A9}
 
-li {font-size: 1.5rem;
+li {font-size: 1rem;
     color: #4C0B5F}
-li p {font-size: 1rem}
 
 h2 {background-color: #4C0B5F;
     color: white}
 
 a {color: #9A2EFE}
+
+bullet {background-color: #F3E2A9}
